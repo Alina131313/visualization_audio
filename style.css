@@ -2,7 +2,7 @@
     width: 500px;
     min-height: 500px;
     border-radius: 50%;
-    background: red;
+    background: green;
 }
 body{
     display: flex;
